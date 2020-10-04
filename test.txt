@@ -1,3 +1,2 @@
 Git is a distributed version control system.
 Git is free software.
-modified for test: nothing is the best thing in Linux.
