@@ -1,4 +1,8 @@
 Git is a distributed version control system.
 Git is free software.
 Git is free software distrubuted under the GPL.
+<<<<<<< HEAD
 The instruction is executed in my local branch bwyh.
+=======
+Give me a signal from master branch.
+>>>>>>> master
