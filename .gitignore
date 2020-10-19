@@ -1,0 +1,16 @@
+# Windows
+Thumbs.tb
+ehthumbs.db
+Desktop.ini
+
+
+# Python
+*.so
+*.egg
+tmp*.py
+*.log
+*.pyc
+
+# My configurations
+db.ini
+private.txt
